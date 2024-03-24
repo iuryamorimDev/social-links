@@ -84,14 +84,14 @@ a {
 }
 @media (max-width: 540px) {
   .container {
-    padding: 20px;
+    padding: 30px;
   }
   img {
     max-width: 30%;
   }
-  /* .items ul {
-    min-width: 220px;
-  } */
+  .items ul {
+    min-width: 280px;
+  }
   .items li {
     font-size: 0.75em;
   }
