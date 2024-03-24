@@ -89,20 +89,20 @@ a {
   img {
     max-width: 30%;
   }
-  .items ul {
+  /* .items ul {
     min-width: 220px;
-  }
+  } */
   .items li {
     font-size: 0.75em;
   }
-  .texto .itn-1 {
+  /* .texto .itn-1 {
     color: white;
     font-size: 1.3em;
-  }
-  .texto .itn-2 {
+  } */
+  /* .texto .itn-2 {
     font-size: 0.8em;
-  }
-  .texto .itn-3 {
+  } */
+  /* .texto .itn-3 {
     font-size: 0.73em;
-  }
+  } */
 }
